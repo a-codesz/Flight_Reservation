@@ -1,3 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.passengerinfowindow;
+
+/**
+ *
+ * @author 123
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
